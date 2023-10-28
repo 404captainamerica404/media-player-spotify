@@ -9,7 +9,7 @@
   
   .header__right {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
   }
   
   .header__left {
